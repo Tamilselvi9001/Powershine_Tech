@@ -1,0 +1,6 @@
+{
+  "name": "Powershine Tech — Industrial Electronics & Textile Automation",
+  "description": "Official B2B website for Powershine Tech - Experts in Textile Machinery Electronics, PLC, Servo Drives, Inverters, HMIs & Repair Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

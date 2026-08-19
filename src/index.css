@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  /* Three-Color Brand Themes */
+  --color-brand-primary: #059669;
+  --color-brand-primary-hover: #047857;
+  --color-brand-primary-light: #f0fdf4;
+
+  --color-brand-bg: #ffffff;
+
+  --color-brand-accent: #022c22;
+  --color-brand-accent-hover: #064e3b;
+  --color-brand-accent-light: #ecfdf5;
+
+  --color-brand-text-dark: #0f172a;
+  --color-brand-text-muted: #475569;
+}
